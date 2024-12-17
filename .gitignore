@@ -1,0 +1,94 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.sw?
+out/
+logs/
+log/
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+### Gradle ###
+.gradle
+build/
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Spring Boot ###
+*.log
+application.properties
+application.yml
+application-*.yml
+.env
+
+### Node / Angular ###
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+angular.json
+package-lock.json
+yarn.lock
+
+### Logs ###
+*.log
+logs/
+debug.log
+npm-debug.log*
+
+### Operating System Files ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### IDE Editors ###
+# VSCode
+.vscode/
+*.code-workspace
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+### Temporary Files ###
+*.tmp
+*.swp
+*~
+*.bak
+*.bk
+
+### Test Coverage ###
+/test-output/
+/coverage/
+
+### Specific for MacOS ###
+._*
+
+### Specific for Windows ###
+ehthumbs.db
+Thumbs.db
